@@ -1,3 +1,3 @@
 # Training page test
 
-Seleniumdemo.com page tests for training purposes.
+Seleniumdemo.com page test for training purposes.

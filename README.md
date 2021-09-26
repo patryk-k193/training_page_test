@@ -1,1 +1,3 @@
-# trening_page_test
+# Trening page test
+
+Seleniumdemo.com page tests for training purposes.
